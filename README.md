@@ -10,6 +10,7 @@ An enthusiast in disruptive technologies, through the development of application
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=white&label=linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvigmiranda)](https://www.linkedin.com/in/vitorgomesmiranda/)
 [![Twitter Badge](https://img.shields.io/twitter/url?color=white&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fvigmiranda)](https://twitter.com/vigmiranda)
+[![Stackoverflow Badge](https://img.shields.io/twitter/url?color=white&label=stackoverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fpt.stackoverflow.com%2Fusers%2F64316%2Fvitor-gomes-miranda)](https://pt.stackoverflow.com/users/64316/vitor-gomes-miranda)
 
 <!--
 **vigmiranda/vigmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
