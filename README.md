@@ -15,8 +15,8 @@ An enthusiast in disruptive technologies, through the development of application
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vigmiranda&theme=dark&hide_border=true"/> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigmiranda&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigmiranda&theme=dark" width="25%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vigmiranda&theme=dark" width="60%"/> 
 </p>
 
 <!--
