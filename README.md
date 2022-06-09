@@ -13,6 +13,12 @@ An enthusiast in disruptive technologies, through the development of application
 [![Stackoverflow Badge](https://img.shields.io/twitter/url?color=white&label=stackoverflow&logo=stackoverflow&style=for-the-badge&url=https%3A%2F%2Fstackoverflow.com%2Fusers%2F3491038%2Fvitor-gomes-miranda)](https://stackoverflow.com/users/3491038/vitor-gomes-miranda)
 
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vigmiranda&theme=dark&hide_border=true"/> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigmiranda&theme=dark&hide_border=true"/>
+</p>
+
 <!--
 **vigmiranda/vigmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
